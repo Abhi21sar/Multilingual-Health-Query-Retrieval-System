@@ -1,18 +1,25 @@
-# Multilingual-Health-Query-Retrieval-System
+# Multilingual Health Query Retrieval System
 
-### Running the System
+This project is a **Multilingual Health Query Retrieval System** that uses a fine-tuned **BERT model** to retrieve health-related queries based on user input. It supports multiple languages and provides the top **K similar queries** from a database.
 
-Install the dependencies  \
-**pip install -r requirements.txt** 
+---
 
-Run train.py to train the BERT Model \
-**python train.py**
+## Features
+- **Multilingual Query Support**: Allows input queries in multiple languages.
+- **BERT-based Query Similarity**: Leverages a pre-trained BERT model to compute similarity scores between user queries and a database.
+- **Customizable Database**: Easily replace or update the database with new health-related data using the provided scripts.
+- **Interactive Web Interface**: A user-friendly interface for query input and retrieval.
+- **Scalable Design**: Efficient handling of large query databases for real-time performance.
 
-Launch the website using \
-**python main.py**
+---
 
-Enter your query in the search box to get top K (10 by default) similar queries in the database. 
+## Setup Instructions
 
-The value of K can be altered in **test.py**.
+### 1. Clone the Repository
+```bash
+git clone https://github.com/<Abhi21sar>/Multilingual-Health-Query-Retrieval-System.git
+cd Multilingual-Health-Query-Retrieval-System
 
-A new database for different diseases can be created by altering the disease and medication names in **Scraping/1mg_scraping.py** and then creating a excel sheet to feed into BERT using **Scraping/data_pre_processing.py**.
+pip install -r requirements.txt
+python train.py
+python main.py
