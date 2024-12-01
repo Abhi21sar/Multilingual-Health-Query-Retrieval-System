@@ -1,0 +1,218 @@
+Rantac 150 Tablet
+    Acidity
+    Depression
+    Gas
+    Heartburn
+    Irritable_bowel_syndrome
+    Indigestion
+    Inflammation
+    Stomach_ulcer
+    Throat_Infection
+    Abdominal_Pain
+    Cough
+    Gas
+    Acid_reflux
+    Throat_pain
+
+Rantac 300 Tablet
+    Acidity
+    Depression
+    Gas
+    Heartburn
+    Irritable_bowel_syndrome
+    Indigestion
+    Inflammation
+    Stomach_ulcer
+    Throat_Infection
+    Abdominal_Pain
+    Cough
+    Gas
+    Acid_reflux
+    Throat_pain
+
+Rantac Syrup Mint
+    Acidity
+    Depression
+    Gas
+    Heartburn
+    Irritable_bowel_syndrome
+    Indigestion
+    Inflammation
+    Stomach_ulcer
+    Throat_Infection
+    Abdominal_Pain
+    Cough
+    Gas
+    Acid_reflux
+    Throat_pain
+
+Rantac-Dom Tablet
+    Acidity
+    Depression
+    Gas
+    Heartburn
+    Irritable_bowel_syndrome
+    Indigestion
+    Inflammation
+    Stomach_ulcer
+    Throat_Infection
+    Abdominal_Pain
+    Cough
+    Gas
+    Acid_reflux
+    Throat_pain
+
+Rantac Mps Oral Suspension Elaichi Sugar Free
+    Acidity
+    Throat_pain
+    Indigestion
+    Vomiting
+    Chest_pain
+    Headache
+    Cough
+
+Rantac RD 30mg/20mg Capsule
+    Acidity
+    Depression
+    Gas
+    Heartburn
+    Irritable_bowel_syndrome
+    Indigestion
+    Inflammation
+    Stomach_ulcer
+    Throat_Infection
+    Abdominal_Pain
+    Cough
+    Gas
+    Acid_reflux
+    Throat_pain
+
+Rantac Injection 2ml
+    Acidity
+    Depression
+    Gas
+    Heartburn
+    Irritable_bowel_syndrome
+    Indigestion
+    Inflammation
+    Stomach_ulcer
+    Throat_Infection
+    Abdominal_Pain
+    Cough
+    Gas
+    Acid_reflux
+    Throat_pain
+
+Rantac OD 300 Tablet CR
+    Acidity
+    Depression
+    Gas
+    Heartburn
+    Irritable_bowel_syndrome
+    Indigestion
+    Inflammation
+    Stomach_ulcer
+    Throat_Infection
+    Abdominal_Pain
+    Cough
+    Gas
+    Acid_reflux
+    Throat_pain
+
+Rantac Infant Syrup Mint
+    Acidity
+    Depression
+    Gas
+    Heartburn
+    Irritable_bowel_syndrome
+    Indigestion
+    Inflammation
+    Stomach_ulcer
+    Throat_Infection
+    Abdominal_Pain
+    Cough
+    Gas
+    Acid_reflux
+    Throat_pain
+
+Rantac Mps LA Oral Suspension
+    Acidity
+    Throat_pain
+    Gas
+    Erectile_dysfunction
+    Indigestion
+    Vomiting
+    Chest_pain
+
+Rantac R Tablet
+    Acidity
+    Depression
+    Gas
+    Heartburn
+    Irritable_bowel_syndrome
+    Indigestion
+    Inflammation
+    Stomach_ulcer
+    Throat_Infection
+    Abdominal_Pain
+    Cough
+    Gas
+    Acid_reflux
+    Throat_pain
+
+Rantac Injection 2ml
+    Acidity
+    Depression
+    Gas
+    Heartburn
+    Irritable_bowel_syndrome
+    Indigestion
+    Inflammation
+    Stomach_ulcer
+    Throat_Infection
+    Abdominal_Pain
+    Cough
+    Gas
+    Acid_reflux
+    Throat_pain
+
+Rantac Mps Oral Suspension Elaichi Sugar Free
+    Acidity
+    Throat_pain
+    Indigestion
+    Vomiting
+    Chest_pain
+    Headache
+    Cough
+
+Rantac PP 20mg Tablet
+    Acidity
+    Depression
+    Gas
+    Heartburn
+    Irritable_bowel_syndrome
+    Indigestion
+    Inflammation
+    Stomach_ulcer
+    Throat_Infection
+    Abdominal_Pain
+    Cough
+    Gas
+    Acid_reflux
+    Throat_pain
+
+Maxx Rantac 150mg Tablet
+    Acidity
+    Depression
+    Gas
+    Heartburn
+    Irritable_bowel_syndrome
+    Indigestion
+    Inflammation
+    Stomach_ulcer
+    Throat_Infection
+    Abdominal_Pain
+    Cough
+    Gas
+    Acid_reflux
+    Throat_pain

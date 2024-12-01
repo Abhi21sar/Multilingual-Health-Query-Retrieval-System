@@ -1,0 +1,337 @@
+Dolo 650 Tablet
+    Teeth_pain
+    Back_pain
+    Fever
+    Joint_pain
+    Headache
+    Body_pain
+    Throat Infection
+    Eye_pain
+    Cough
+
+Crocin Advance Tablet
+    Fever
+    Lack_of_apetite
+    Leg_pain
+    Arm_pain
+    Headache
+    Vomiting
+    Gas
+    Stomach_pain
+    Blocked_nose
+
+Calpol 650mg Tablets
+    Fever
+    Headache
+    Vomiting
+    Stomach_pain
+    Sneezing
+    Cold
+    Chickungunya
+
+Calpol 500mg Tablets
+    Fever
+    Headache
+    Weakness
+    Chickungunya
+    Cough
+    Lack_of_apetite
+    Vomiting
+    Cold
+    Sneezing
+    Stomach_pain
+
+Calpol 250mg Paediatric Oral Suspension Strawberry
+    Fever
+    Cold
+    Sneezing
+    Stomach_pain
+    Headache
+    Chickungunya
+
+
+Dolo 500 Tablet
+    Throat_pain
+    Headache
+    Fever
+    Body_pain
+    Chill
+    Joint_pain
+    Cold
+
+Lanol ER Tablet
+    Malaria
+    Rashes
+    Cough
+    Fever
+    Body_pain
+    Eye_pain
+    Chickungunya
+    Throat_pain
+    Cold
+
+Paracip 500 Tablet
+    Fever
+    Headache
+    Body_pain
+    Rashes
+    Eye_pain
+    Chickungunya
+    Throat_pain
+    Cold
+
+P 650 Tablet
+    Infection
+    Drowsiness
+    Fever
+    Nail_Infection
+    Body_pain
+    Throat_Infection
+    Inflammation
+    Joint_pain
+    Phlegm
+
+Pyrigesic 1000 Tablet
+    Fever
+    Cold
+    Vomiting
+    Body_pain
+    Rashes
+    Eye_pain
+    Sore_throat
+    Phlegm
+    Chickungunya
+    Nausea
+    Dizziness
+    Flu
+
+Dolopar 650 Tablet
+    Fever
+    Blocked_nose
+    Body_pain
+    Gas
+    Rashes
+    Eye_pain
+    Orbital_pain
+    Headache
+    Chickungunya
+
+Dolo 250 Oral Suspension
+    Fever
+    Cold
+    Body_pain
+    Headache
+    Teeth_pain
+
+Paracip 650 Tablet
+    Fever
+    Headache
+    Body_pain
+    Rashes
+    Eye_pain
+    Chickungunya
+    Throat_pain
+    Cold
+
+T_98 Paediatric Drops
+    Chill
+    Abdominal_Pain
+    Fever
+    Vomiting
+    Cough
+    Sore_throat
+    Leg_pain
+    Headache
+    Breathing_problem
+    Back_pain
+
+Sumo L 650 Tablet
+    Fever
+    Drowsiness
+    Headache
+    Chill
+    Cough
+    Sore_throat
+    Blocked_nose
+    Sneezing
+    Congestion
+
+Calpol Paediatric Drops Peppermint
+    Cold
+    Sneezing
+    Stomach_pain
+    Fever
+    Headache
+    Chickungunya
+    Weakness
+    Cough
+    Lack_of_apetite
+    Vomiting
+
+Pacimol 650 Tablets
+    Body_pain
+    Fever
+    Joint_pain
+    Chickungunya
+    Leg_pain
+    Back_pain
+    Headache
+
+Pyrigesic 650 Tablet
+    Fever
+    Cold
+    Vomiting
+    Nausea
+    Dizziness
+    Rashes
+    Flu
+    Body_pain
+    Eye_pain
+    Sore_throat
+    Headache
+
+Sumo L DS Suspension
+    Chill
+    Fever
+    Cough
+    Cold
+    Blocked_nose
+    Drowsiness
+    Headache
+    Congestion
+    Sneezing
+    Sore_throat
+    Nausea
+
+P 250 Suspension
+    Fever
+    Nail_Infection
+    Body_pain
+    Throat_Infection
+    Inflammation
+    Phlegm
+    Joint_pain
+    Drowsiness
+    Cold
+    Vomiting
+
+Zerodol-SP Tablet
+    Joint_pain
+    Fracture
+    Chickungunya
+
+Calpol 120mg Suspension Strawberry
+    Fever
+    Cold
+    Sneezing
+    Stomach_pain
+    Headache
+    Chickungunya
+    Weakness
+    Cough
+    Lack_of_apetite
+    Vomiting
+    Body_pain
+
+Zerodol-P Tablet
+    Nail_Infection
+    Cold
+    Fever
+    Body_pain
+    Chickungunya
+    Joint_pain
+    Weakness
+    Headache
+    Throat_pain
+    Tiredness
+
+Fevastin Injection
+    Abdominal_Pain
+    Dysentry
+    Vomiting
+    Fever
+    Rashes
+    Eye_pain
+    Chickungunya
+    Throat_pain
+    Body_pain
+    Cold
+    Teeth_pain
+    Headache
+
+Sinarest New Tablet
+    Cold
+    Flu
+    Headache
+    Cough
+    Headache
+
+Dolo Drops
+    Fever
+    Cold
+    Body_pain
+    Headache
+    Blocked_nose
+    Congestion
+    Cough
+
+Combiflam Tablet
+    Fever
+    Cold
+    Joint_pain
+    Headache
+    Body_pain
+    Leg_pain
+    Wrist_sprain
+    Neck_pain
+    Shoulder_pain
+
+Cheston Cold Tablet
+    Cold
+    Cough
+    Headache
+    Sore_throat
+    Stomach_pain
+    Dysentry
+    Fever
+    Cough
+    Throat_Infection
+
+Flexon Tablet
+    Fever
+    Body_pain
+    Arm_pain
+    Neck_pain
+    Shoulder_pain
+
+Enzoflam Tablet
+    Back_pain
+    Chest_pain
+    Testicular_pain
+    Sensitive_Teeth
+    Fever
+    Headache
+
+Pyrigesic Tablet
+    Fever
+    Cold
+    Vomiting
+    Nausea
+    Dizziness
+    Flu
+    Body_pain
+    Eye_pain
+    Sore_throat
+    Chickungunya
+
+P 500 Tablet
+    Fever
+    Nail_Infection
+    Body_pain
+    Throat_Infection
+    Inflammation
+    Phlegm
+    Headache
+    Joint_pain
+    Drowsiness
+    Cold

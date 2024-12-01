@@ -1,0 +1,1475 @@
+Alkem Amoxicilllin 250mg Capsule
+    Bacterial_Infection
+    Face_Scar
+    Yeast_Infection
+    Acne
+    Cough
+    Fever
+###############################################
+Metrogyl 400 Tablet
+    Yeast_Infection
+    Bacterial_Infection
+    Constipation
+    Dysentry
+
+Flagyl 400 Tablet
+    Bacterial_Infection
+    Face_Scar
+    Dysentry
+    Stomach_Infection
+    Loss_of_Apetite
+    Yeast_Infection
+    Cough
+    Fever
+
+Metrogyl Gel
+    Yeast_Infection
+    Bacterial_Infection
+    Acne
+    Face_Scar
+    Stomach_Pain
+    Dysentry
+    Constipation
+    Cough
+    Fever
+
+Metrogyl ER Tablet
+    Yeast_Infection
+    Bacterial_Infection
+    Face_Scar
+    Stomach_Pain
+    Dysentry
+    Constipation
+    Cough
+    Fever
+
+Metrogyl Suspension
+    Yeast_Infection
+    Bacterial_Infection
+    Face_Scar
+    Stomach_Pain
+    Dysentry
+    Constipation
+    Cough
+    Fever
+
+Metrogyl 200 Tablet
+    Yeast_Infection
+    Bacterial_Infection
+    Face_Scar
+    Stomach_Pain
+    Dysentry
+    Constipation
+    Cough
+    Fever
+    Gas
+    Indigestion
+
+Metrogyl Injection
+    Yeast_Infection
+    Bacterial_Infection
+    Face_Scar
+    Stomach_Pain
+    Dysentry
+    Constipation
+    Cough
+    Fever
+
+Flagyl Suspension
+    Yeast_Infection
+    Bacterial_Infection
+    Acne
+    Face_Scar
+    Stomach_Infection
+    Loss_of_Apetite
+    Cough
+    Fever
+
+Flagyl 200 Tablet
+    Yeast_Infection
+    Bacterial_Infection
+    Acne
+    Face_Scar
+    Stomach_Infection
+    Loss_of_Apetite
+    Cough
+    Fever
+
+Flagyl ER Tablet
+    Face_Scar
+    Bacterial_Infection
+    Stomach_Infection
+    Loss_of_Apetite
+    Yeast_Infection
+    Cough
+    Fever
+    Acne
+
+Metro 500mg Infusion
+    Face_Scar
+    Bacterial_Infection
+    Dystonia
+    Yeast_Infection
+    Cough
+    Fever
+    Acne
+
+Aristogyl 400 Tablet
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Cough
+    Fever
+    Acne
+    Throat_Pain
+
+Metron 500mg Infusion   
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Cough
+    Fever
+    Acne
+
+Metro Infusion
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Dystonia
+    Cough
+    Fever
+    Acne
+
+Metris 500mg Infusion
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Cough
+    Fever
+    Acne
+    Throat_Pain
+
+Metron 200mg/5ml Suspension
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Stomach_Cramps
+    Cough
+    Fever
+    Dysentry
+
+Metnizid Gel
+    Bacterial_Infection
+    Acne
+    Face_Scar
+    Yeast_Infection
+    Cough
+    Fever
+    Throat_Pain
+    
+Metrokem IV 100mg Infusion
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Cough
+    Fever
+    Acne
+    Throat_Pain
+
+Nirmet 500mg Infusion
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Cough
+    Fever
+    Acne
+    Throat_Pain
+
+Aristogyl Suspension
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Cough
+    Fever
+    Acne
+    Throat_Pain
+
+Metrogyl-P 2% Ointment
+    Stomach_Pain
+    Fever
+    Trichomonas_Infection
+    Oral_Ulcer
+    Bacterial_Infection
+    Dysentry
+    Swelling
+
+Meterkem 500mg Infusion
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Cough
+    Fever
+    Acne
+    Throat_Pain
+
+Maxgyl 400mg Tablet
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Cough
+    Fever
+    Acne
+    Throat_Pain
+
+Flagyl 0.5% Solution for Infusion
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Cough
+    Fever
+    Acne
+    Stomach_Infection
+
+Ashmet 500mg Infusion
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Cough
+    Fever
+    Acne
+    Throat_Pain
+
+Glomet 200mg Tablet
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Cough
+    Fever
+    Acne
+    Throat_Pain
+
+Metropro 400mg Tablet
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Cough
+    Fever
+    Acne
+    Throat_Pain
+
+Nirmet Plus Infusion
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Cough
+    Fever
+    Acne
+    Throat_Pain
+
+Dygyl Infusion
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Cough
+    Fever
+    Acne
+    Throat_Pain
+
+Lupigyl IV 500mg Infusion
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Cough
+    Fever
+    Acne
+    Throat_Pain
+
+Metrocare 500mg Infusion
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Cough
+    Fever
+    Acne
+    Throat_Pain
+
+Aldezol 200mg Tablet
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Cough
+    Fever
+    Acne
+    Throat_Pain
+
+Ciprofloxacin Usp 200mg Infusion
+    Fever
+    Rashes
+    Urianry_Infection
+    Chickenpox
+    Face_Scar
+    Bacterial_Infection
+    Ear_Pain
+    Yeast_Infection
+
+Ciplox Eye/Ear Drops
+    Ear_Pus
+    Face_Scar
+    Bacterial_Infection
+    Ear_Pain
+    Cough
+    Cold
+    Yeast_Infection
+
+Ciplox 500 Tablet
+    Fever
+    Dysentry
+    Vomiting
+    Cold
+    Cough
+    Red_Eye
+    Stomach_Pain
+
+Cifran 500 Tablet
+    Inflammation
+    Nail_Infection
+    Eye_Swelling
+    Throat_Pain
+    Face_Scar
+    Bacterial_Infection
+    Typhoid
+    Ear_Pain
+    Fever
+    Yeast_Infection
+
+Ciprobid 500 Tablet
+    Face_Scar
+    Bacterial_Infection
+    Skin_Infection
+    Teasticle_Infection
+    Yeast_Infection
+    Acne
+    Cough
+    Fever
+    Cut
+
+Ceflox Eye/Ear Drops
+    Ear_Pain
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Acne
+    Cough
+    Fever
+    Cut
+
+Ciplox D Eye/Ear Drops
+    Ear_Pus
+    Red_Eye
+    Ear_Pain
+    Cough
+    Cold
+
+Ciprodac 500 Tablet
+    Fever
+    Headache
+    Nose_Itch
+    Joint_Pain
+    Cold
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Acne
+    Cough
+
+Ciplox TZ Tablet
+    Dysentry
+    Vomiting
+    Cold
+    Cough
+    Red_Eye
+
+Ciplox 250 Tablet
+    Dysentry
+    Vomiting
+    Red_Eye
+    Cough
+    Loss_of_Apetite
+
+Alciflox 500mg Tablet
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Fever
+    Cough
+    Cut
+
+Zoxan 500 Tablet
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Acne
+    Cough
+    Fever
+    Cut
+
+Zoxan Eye Ointment
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Acne
+    Cough
+    Fever
+    Cut
+
+Cifran CT Tablet
+    Inflammation
+    Nail_Infection
+    Typhoid
+    Dysentry
+    Abdominal_Pain
+    Face_Scar
+    Bacterial_Infection
+    Eye_Swelling
+    Yeast_Infection
+
+Ciplox 2mg Injection
+    Dystonia
+    Vomiting
+    Cold
+    Red_Eye
+    Cough
+    Loss_of_Apetite
+    Fever
+
+Cifran 250 Tablet
+    Inflammation
+    Nail_Infection
+    Face_Scar
+    Bacterial_Infection
+    Typhoid
+    Eye_Swelling
+    Yeast_Infection
+    Throat_Pain
+    Acne
+
+Cifran Eye/Ear Drops
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Acne
+    Cough
+    Fever
+    Cut
+
+Floxip 250 Tablet
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Acne
+    Cough
+    Fever
+    Cut
+
+Zoxan Eye/Ear Drops
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Acne
+    Cough
+    Fever
+    Cut
+
+Cipcoz 500mg Tablet
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Acne
+    Cough
+    Fever
+    Cut
+
+Ciprobid 250 Tablet
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Acne
+    Cough
+    Fever
+    Cut
+    Skin_Infection
+    Teasticle_Infection
+
+Cebran 500mg Tablet
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Acne
+    Cough
+    Fever
+    Cut
+
+Ciplox 750 Tablet
+    Dysentry
+    Vomiting
+    Red_Eye
+    Cold
+    Loss_of_Apetite
+    Cough
+    Fever
+
+Ciprova 500mg Tablet
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Acne
+    Cough
+    Fever
+    Cut
+
+Ciprokem 500mg Tablet
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Acne
+    Cough
+    Fever
+    Cut
+
+Ciprodac 250 Tablet
+    Fever
+    Headache
+    Nose_Itch
+    Joint_Pain
+    Cold
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Acne
+    Cough
+
+Novacip 500mg Tablet
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Acne
+    Cough
+    Fever
+    Cut
+
+Ultraflox 500mg Tablet
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Acne
+    Cough
+    Fever
+    Cut
+
+Zoxan 250mg Tablet
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Acne
+    Cough
+    Fever
+    Cut
+
+Queen 500mg Tablet
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Acne
+    Cough
+    Fever
+    Cut
+
+Alciflox 250mg Tablet
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Acne
+    Cough
+    Fever
+    Cut
+
+Galcipro 500mg Tablet
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Acne
+    Cough
+    Fever
+    Cut
+
+Monocef 1mg Injection
+    Dysentry
+    Weakness
+    Gas
+    Cough
+    Fever
+    Cold
+    Joint_Pain
+    Face_Scar
+    Bacterial_Infection
+
+Xone 1000mg Injection
+    Fever
+    Dysentry
+    Stomach_Pain
+    Weakness
+    Typhoid
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Acne
+    Cough
+
+Monocef 500mg Injection
+    Dystonia
+    Weakness
+    Gas
+    Cough
+    Fever
+    Cold
+    Joint_Pain
+    Face_Scar
+    Bacterial_Infection
+
+Traxol 1000mg Injection
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Acne
+    Cough
+
+Montaz 1g Injection
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Acne
+    Cough
+    Fever
+    Cut
+
+Monocef-SB 1g Injection
+    Dysentry
+    Weakness
+    Gas
+    Cough
+    Fever
+    Typhoid
+    Cold
+    Joint_Pain
+
+Monocef 2gm Injection
+    Dysentry
+    Weakness
+    Gas
+    Cough
+    Cold
+    Joint_Pain
+    Face_Scar
+    Bacterial_Infection
+
+Cefaxone 1gm Injection
+    Fever
+    Face_Scare
+    Bacterial_Infection
+    Yeast_Infection
+    Acne
+    Cough
+    Cut
+
+Cefbact 1000mg Injection
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Acne
+    Cough
+    Fever
+    Cut
+
+Monocef 250mg Injection
+    Dysentry
+    Weakness
+    Gas
+    Cough
+    Fever
+    Cold
+    Joint_Pain
+    Face_Scar
+    Bacterial_Infection
+
+Monotac 1000mg Injection
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Acne
+    Cough
+    Fever
+    Cut
+
+Finecef 1gm Injection
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Acne
+    Cough
+    Fever
+    Cut
+
+Maczone 1000mg Injection
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Acne
+    Cough
+    Fever
+    Cut
+
+Accuzon 1g Injection
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Acne
+    Cough
+    Fever
+    Cut
+
+Accuzon 500 Injection
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Acne
+    Cough
+    Fever
+    Cut
+
+Amzycef 1000mg Injection
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Acne
+    Cough
+    Fever
+    Cut
+
+Taxone 1gm Injection
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Acne
+    Cough
+    Fever
+    Cut
+
+Powercef 1gm Injection
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Acne
+    Cough
+    Fever
+    Cut
+
+C One 1000mg Injection
+    Septicaemia
+    Sore_Throat
+    Fever
+    Face_Scar
+    Bacterial_Infection
+    Abdominal_Pain
+    heart_Block
+    Yeast_Infection
+
+Gentrax 1000mg Injections
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Acne
+    Cough
+    Fever
+    Cut
+
+Mahacef 1000mg Injection
+    Chest_Infection
+    Sore_Throat
+    Cold
+    Flu
+    Body_Pain
+    Fever
+    Face_Scar
+    Typhoid
+    Bacterial_Infection
+    Tiredness
+    Blocked_Nose
+    Throat_Pain
+    Abdominal_Pain
+
+Odicef 500mg Injection
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Acne
+    Cough
+    Fever
+    Cut
+
+Macefxone IV 1000mg Injection
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Acne
+    Cough
+    Fever
+    Cut
+
+Anvicft 500mg Injection
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Acne
+    Cough
+    Fever
+    Cut
+
+Zetri 1gm Injection
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Acne
+    Cough
+    Fever
+    Cut
+
+Cefzone 1gm Injection
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Acne
+    Cough
+    Fever
+    Cut
+
+X-Zone 1gm Injection
+    Yeast_Infection
+    Bacterial_Infection
+    Hairfall
+    Face_Scar
+    Bacterial_Infection
+    Dandruff
+    Pneumonitis
+    Oily_Scalp
+    Dry_Hair
+
+A Cef 1gm Injection
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Cough
+    Throat_Pain
+    Pneumonia
+    Fever
+
+Ceftrax 1000mg Injection
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Cough
+    Fever
+    Cut
+
+Cefaxone 0.5gm Injection
+    Fever
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Acne
+    Cough
+    Cut
+
+Cebfact 500mg Injection
+    Fever
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Acne
+    Cough
+    Cut
+
+Gentrax 500mg Injection
+    Fever
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Acne
+    Cough
+    Cut
+
+Levocet Tablet
+    Cold
+    Pubic_Itching
+    Blocked_Nose
+
+Teczine Tablet
+    Skin_Allergy
+    Itching
+    Fungal_Infection
+
+LCZ Tablet
+    Blocked_Nose
+    Vaginal_itching
+    Cold
+    Throat_Infection
+    Itching
+    Cough
+    Fever
+    Body_Pain
+
+Xyzal 5mg Tablet
+    Itching
+    Skin_Problem
+
+Okacet-L Tablet
+    Cold
+    Itching
+    Body_Pain
+    Asthma
+    Fever
+    Cough
+
+Lecope Tablet
+    Headache
+    Cold
+    Cough
+    Fever
+    Sneezing
+    Itching
+    Corticosteroid
+    Skin_Problem
+    Body_Pain
+    Blocked_Nose
+
+Levosiz Tablet
+    Cold
+    Dust_Allergy
+    Sneezing
+    Urticaria
+    Blocked_Nose
+    Headache
+    Skin_Allergy
+    Asthma
+    Fever
+    Cough
+
+Teczine 10 Tablet
+    Skin_Allergy
+    Itching
+    Urticaria
+
+Montek LC Tablet
+    Throat_Infection
+    Asthma
+    Sneezing
+    Cold
+    Fever
+
+Montair-LC Tablet
+    Arthritis
+    Sneezing
+    Headache
+    Blocked_Nose
+    Dust_Allergy
+    Pollen_Allergy
+    Cough
+
+Montina-L Tablet
+    Cold
+    Skin_Allergy
+    Itching
+    Bronkitis
+    Sneezing
+    Fever
+
+Montair LC Kid Syrup
+    Arthritis
+    Sneezing
+    Headache
+    Blocked_Nose
+    Dust_Allergy
+    Pollen_Allergy
+    Cough
+
+Monticope Tablet
+    Cold
+    Sneezing
+    Fever
+    Blocked_Nose
+    Vomiting
+    Headache
+    Sputum
+    Cough
+
+Vozet Tablet
+    Rashes
+    Itching
+    Skin_Allergy
+    Urticaria
+
+Telekast-L Tablet
+    Sore_Throat
+    Sneezing
+    Cold
+    Body_Pain
+    Throat_Infection
+    Flu
+    Red_Eye
+    Eye_Swelling
+    Dust_Allergy
+    Cough
+    
+Levocet Syrup
+    Cough
+    Cold
+    Throat_Pain
+    Body_Pain
+    Itching
+    Vomiting
+    Sore_Throat
+
+Montecip LC Tablet
+    Cold
+    Sneezing
+    Fever
+    Headache
+    Sputum
+    Cough
+    Arthritis
+    Blocked_Nose
+
+1-AL Tablet
+    Dorsal_Myelitis
+    Diabetis
+    Sexual_Discahrge
+    Indigestion
+    Tonsils
+    Asthma
+    Rashes
+    Itching
+
+Levocet M Tablet
+    Blocked_Nose
+    Blisters
+    Fever
+    Body_Pain
+    Dust_Allergy
+    Cold
+    Sneezing
+
+L Dio 1 Tablet
+    Cold
+    Asthma
+    Swelling
+    Body_Pain
+    Cough
+
+Cetcip-L Tablet
+    Cold
+    Asthma
+    Swelling
+    Body_Pain
+    High_Blood_Pressure
+    Blocked_Nose
+
+Montair LC Kid Tablet DT
+    Arthritis
+    Sneezing
+    Headache
+    Blocked_Nose
+    Dust_Allergy
+    Pollen_Allergy
+    Cold
+    Cough
+
+HHLEVO Tablet
+    Skin_Allergy
+    Blocked_Nose
+    Sneezing
+    Dust_Allergy
+    Cold
+    Throat_Infection
+    Cough
+    Throat_Pain
+    Headache
+
+Levosiz-M Tablet
+    Cold
+    Dust_Allergy
+    Blocked_Nose
+    Sneezing
+    Headache
+    Fever
+    Cough
+
+Xyzal Syrup
+    Rashes
+    Itching
+    Cold
+    Blocked_Nose
+    Skin_Allergy
+    Pubic_Itching
+    Cough
+    Vomiting
+
+LIC-CET 5 Tablet
+    Cold
+    Indigestion
+    Gas
+    Acidity
+    Fatty_Liver
+
+Odimont-LC Tablet
+    Asthma
+    Sneezing
+    Headache
+    Arthritis
+    Blocked_Nose
+    Cough
+    Cold
+    Dust_Allergy
+
+Montemac-l Tablet
+    Cold
+    Sneezing
+    Fever
+    Itching
+    Headache
+    Sputum
+    Arthritis
+
+Levosiz 10 Tablet
+    Cold
+    Dust_Allergy
+    Urticaria
+    Sneezing
+    Blocked_Nose
+    Headache
+    Skin_Allergy
+    Asthma
+
+Sinarest LP New Tablet
+    Fever
+    Cold
+    Cough
+    Throat_Pain
+    Blocked_Nose
+    Phlegm
+    Headache
+
+L Montus Tablet
+    Cold
+    Sneezing
+    Fever
+    Itching
+    Headache
+    Sputum
+
+Montas-L Tablet
+    Throat_Infection
+    Asthma
+    Cold
+    Sneezing
+    Fever
+    Itching
+    Headache
+    Sputum
+    Cough
+
+Azithral 500 Tablet
+    Cut
+    Fever
+    Cold
+    Sore_Throat
+    Throat_Pain
+    Cough
+
+Azee 500 Tablet
+    Cold
+    Headache
+    Throat_Pain
+    Throat_Infection
+    Fever
+    Cough
+
+Azax 500 Tablet
+    Cold
+    Sore_Throat
+    Tonsils
+    Fever
+    Cough
+    Throat_Infection
+    Throat_Pain
+
+Azicip 500 Tablet
+    Yeast_Infection
+    Bacterial_Infection
+    Cough
+    Acne
+    Fever
+    Throat_Pain
+
+Azee 200mg Dry Syrup
+    Throat_Infection
+    Cough
+    Cold
+    Headache
+    Throat_Pain
+
+Azithral 200 Liquid
+    Cold
+    Cough
+    Cut
+    Fever
+    Sore_Throat
+
+Azithral XL 200 Liquid
+    Cold
+    Cough
+    Cut
+    Fever
+    Sore_Throat
+
+Zady 500 Tablet
+    Face_Scar
+    Yeast_Infection
+    Bacterial_Infection
+    Acne
+    Cough
+    Fever
+    Cut
+
+Azee 250 Tablet
+    Throat_Infection
+    Cough
+    Headache
+    Cold
+    Throat_Pain
+
+Azee 100mg Dry Syrup Peppermint
+    Throat_Infection
+    Cough
+    Cold
+    Headache
+    Throat_Pain
+
+ATM 500 Tablet
+    Arm_Pain
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Acne
+    Throat_Infection
+    Cough
+    Fever
+
+Zathrin 500 Tablet
+    Face_Scar
+    Bacterial_Infection
+    Cold
+    Cough
+    Yeast_Infection
+    Acne
+    Fever
+    Cut
+
+Aziwok 500 Tablet
+    Fever
+    Cough
+    Joint_Pain
+    Back_Pain
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Acne
+    Cut
+
+Azee 250 Tablet
+    Throat_Infection
+    Cold
+    Headache
+    Throat_Pain
+    Cough
+
+Azifast 500 Tablet
+    Rashes
+    Sore_Throat
+    Headache
+    Chickenpox
+    Skin_Infection
+    Face_Scar
+    Bacterial_Infection
+    Blisters
+    Itching
+    Yeast_Infection
+    Acne
+
+Azithral 100 Liquid
+    Cold
+    Cough
+    Cut
+    Fever
+    Sore_Throat
+
+Azibact 500 Tablet
+    Face_Scar
+    Back_Pain
+    Yeast_Infection
+    Acne
+    Cough
+    Fever
+    Cut
+
+Zithrox 500 Tablet
+    Blisters
+    Itching
+    Face_Scar
+    Back_Pain
+    Yeast_Infection
+    Acne
+    Skin_Infection
+    Cough
+    Fever
+
+Zady 250 Tablet
+    Face_Scar
+    Bacterial_Infection
+    Cut
+    Cough
+    Fever
+    Yeast_Infection
+    Acne
+
+Azilide 500 Tablet
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Acne
+    Fever
+    Cough
+    Cut
+    Throat_Infection
+    Throat_Pain
+
+AF Kit Tablet
+    Fungal_Infection
+    Bacterial_Infection
+    Cold
+
+Azax 250 Tablet
+    Cold
+    Cough
+    Sore_Throat
+    Tonsils
+    Fever
+    Throat_Infection
+    Throat_Pain
+    Bacterial_Infection
+    Yeast_Infection
+    Face_Scar
+    
+Azee XL 200g Dry Syrup Peppermint
+    Throat_Infection
+    Cough
+    Headache
+    Cold
+    Throat_Pain
+
+Zathrin 250 Tablet
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Cold
+    Cough
+    Fever
+    Acne
+    Cut
+
+Azimax 500 Tablet
+    Fever
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Acne
+    Cough
+    Cut
+
+Azivent 500 Tablet
+    Fever
+    Cold
+    Face_Scar
+    Bacterial_Infection
+    Stomach_Pain
+    Yeast_Infection
+    Acne
+    Cut
+    Cough
+
+Azithral Eye Ointment
+    Blisters
+    Cold
+    Cough
+    Cut
+    Fever
+    Sore_Throat
+
+Azithral Tablet
+    Cold
+    Cough
+    Cut
+    Fever
+    Sore_Throat
+
+Azicip 250 Tablet
+    Throat_Pain
+    Bacterial_Infection
+    Face_Scar
+    Yeast_Infection
+    Acne
+    Folliculitis
+    Fever
+    Cough
+
+Zaha Eye Ointment
+    Blepharitis
+    Eye_Infection
+    Red_Eye
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Acne
+    Cough
+    Fever
+
+Azibact 200 Readymix Oral Suspension
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Acne
+    Cough
+    Fever
+    Cut
+
+ATM 200 Oral Suspension
+    Arm_Pain
+    Face_Scar
+    Bacterial_Infection
+    Yeast_Infection
+    Acne
+    Throat_Infection
+    Fever
+    Cough
+
+
+
+

@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<title>Information Retrieval</title>
+
+	<!-- INCLUDING JQUERY-->
+	<script src=
+    "https://code.jquery.com/jquery-3.5.1.js">
+	</script>
+
+	<!-- CSS FOR STYLING THE PAGE -->
+	<style>
+        h1{
+			text-align: center;
+			text-transform: capitalize;
+			text-shadow: #0085A1;
+			font-weight: bolder;
+			color: #4d056c; 
+			font-size: xx-large;
+
+        }
+		h2{
+			text-align: center;
+			color: #181ed6;
+			text-decoration:wavy;
+		}
+        
+        #debug{
+          font-size: xx-large;
+          color: rgb(45, 45, 93);
+        }
+		
+        body {
+          /* background-color: lightblue; */
+          background-image : url(https://cdn.pixabay.com/photo/2017/09/06/13/18/mosaic-2721425__340.jpg);
+		  background-repeat: no-repeat;
+		  background-size: 100%;
+          margin: 200px 300px;
+          
+        }
+		.search-result h4 {
+    		margin-bottom: 0;
+    		color: #1E0FBE;
+		}
+		.search-result h5 {
+    		font-size: 12px;
+    		margin-top: 5px;
+		}
+		.search-result h6 {
+    		font-size: 12px;
+    		margin-top: 5px;
+			font-weight: bold;
+		}
+		.post-preview > a {
+  color: #212529;
+
+}
+.post-preview > a:focus, .post-preview > a:hover {
+  text-decoration: none;
+  padding-left: 10px;
+  color: #0085A1;
+}
+.post-title{
+	text-align: left;
+	padding-left: 10px;
+}
+.post-preview > a > .post-title {
+  font-size: 1.875rem;
+  margin-top: 1.875rem;
+  margin-bottom: 0.625rem;
+  padding-left: 10px;
+}
+.post-preview > a > .post-subtitle {
+  font-weight: 300;
+  margin-bottom: 0.625rem;
+  padding-left: 10px;
+}
+.post-subtitle{
+	color:darkred;
+	padding-left: 10px;
+}
+.post-preview > .post-meta {
+  font-size: 1.125rem;
+  font-style: italic;
+  margin-top: 0;
+  color: #4d056c;
+  padding-left: 10px;
+}
+.post-preview > .post-meta > a {
+  text-decoration: none;
+  padding-left: 10px;
+}
+.post-preview{
+	
+	border-style:double;
+	border-color: rgb(94, 93, 93);
+	border-radius: 5px;
+	padding-left: 10px;
+	
+}
+.post-preview:hover {
+  background-color: rgb(189, 238, 174);
+}
+	</style>
+</head>
+
+<body>
+	<section>
+		
+		<h1>-------------- Search Results -------------- </h1>
+        
+       <br>
+       
+	   
+		{% for row in data %}
+		<!-- <div class="search-result"> -->
+			<!-- <h4>{{row.Query }}| {{row.Qtype}}</h4> -->
+			<!-- <h5>{{row.Answer}}</h5> -->
+			<!-- <h6>{{row.Drug}} | {{row.Product}} </h6> -->
+			<!-- <br> -->
+		<!-- </div> -->
+		<div class="post-preview">
+			
+			<h2 class="post-title"> {{row.Query }} </h2> 
+			<h3 class="post-subtitle">{{row.Answer}}</h3>
+		
+		<p class="post-meta">
+			<b>{{row.Drug}} </b>| {{row.Product}} | {{row.Query_Type}} 
+		</p>
+		</div>
+		{% endfor %}
+		
+	</section>
+</body>
+
+</html>

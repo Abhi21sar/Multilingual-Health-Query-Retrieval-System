@@ -1,0 +1,78 @@
+Brufen 400 Tablet
+    Shoulder_pain
+    Fracture
+    Teeth_pain
+    Headache
+    Throat_pain
+    Headache
+    Vomiting
+    Fever
+    Arm_pain
+    Fracture
+    Leg_pain
+    Finger_Swelling
+
+Brufen 200 Tablet
+    Fracture
+    Shoulder_pain
+    Teeth_pain
+    Headache
+    Throat_pain
+    Vomiting
+    Headache
+    Fever
+    Arm_pain
+    Leg_pain
+    Fever
+
+Brufen 600 Tablet
+    Fracture
+    Shoulder_pain
+    Teeth_pain
+    Headache
+    Throat_pain
+    Vomiting
+    Headache
+    Fever
+    Arm_pain
+    Leg_pain
+    Fever
+
+Brufen Junior 100mg/5ml Suspension
+    Headache
+    Throat_pain
+    Fracture
+    Teeth_pain
+    Shoulder_pain
+    Vomiting
+    Headache
+    Fever
+    Arm_pain
+    Leg_pain
+
+Brufen MR Soft Gelatin Capsule
+    Headache
+    Throat_pain
+    Fracture
+    Teeth_pain
+    Shoulder_pain
+    Vomiting
+    Headache
+    Fever
+    Arm_pain
+    Leg_pain
+    Testicular_pain
+    Cold
+    Neck_pain
+
+Brufen Softra 400mg Capsule
+    Headache
+    Throat_pain
+    Fracture
+    Teeth_pain
+    Shoulder_pain
+    Vomiting
+    Headache
+    Fever
+    Arm_pain
+    Leg_pain

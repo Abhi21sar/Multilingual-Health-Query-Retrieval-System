@@ -1,0 +1,45 @@
+<html>
+  <head>
+    <title>IR Term Project</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel=”stylesheet” integrity=”sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+    <script src="{{ url_for('static', filename='GiveResults.js') }}"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <style>
+        body {
+          background-color: lightblue;
+          background-image : url(https://img.freepik.com/free-photo/abstract-grunge-decorative-relief-navy-blue-stucco-wall-texture-wide-angle-rough-colored-background_1258-28311.jpg?w=1380&t=st=1669790242~exp=1669790842~hmac=32d9bface63550e6dc0b3c38e82c0e1091ce9b95f5c59298da9bd4686d11280d);
+          margin: 200px 300px;
+          text-align: center;
+          font-size: xx-large;
+        }
+        h1{
+            width: 100%;
+        }
+        #text-container {
+          padding: 10px;
+        }
+        #search-results {
+          display: none;
+        }
+    </style>
+</head>
+  <body>
+    <div id="text-container">
+        <h1>Top K Health Query Intent Retrieval
+        </h1>
+        <hr>
+        <h3>Please enter your query:</h3> 
+       <form action = "http://localhost:5000/UserQuery" method = "post">
+        <p><input type = "text" name = "qry" placeholder = "Enter your query"/></p>
+        <p><input type = "submit" value = "submit" /></p>
+     </form> 
+       <br><br>
+       <div id="search-results">
+       <h2>Results</h2>
+      
+       </div>
+      </div>
+    </body>
+</html>

@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<title>Information Retrieval</title>
+
+	<!-- INCLUDING JQUERY-->
+	<script src=
+    "https://code.jquery.com/jquery-3.5.1.js">
+	</script>
+
+	<!-- CSS FOR STYLING THE PAGE -->
+	<style>
+		table {
+			margin: 0 auto;
+			font-size: large;
+			border: 1px solid black;
+		}
+        h1{
+            width: 100%;
+        }
+        #text-container {
+          padding: 10px;
+        }
+        #debug{
+          font-size: xx-large;
+          color: rgb(45, 45, 93);
+        }
+		td {
+			background-color: #E4F5D4;
+			border: 1px solid black;
+		}
+
+		th,
+		td {
+			font-weight: bold;
+			border: 1px solid black;
+			padding: 10px;
+			text-align: center;
+		}
+
+		td {
+			font-weight: lighter;
+		}
+        body {
+          background-color: lightblue;
+          background-image : url(https://img.freepik.com/free-photo/abstract-grunge-decorative-relief-navy-blue-stucco-wall-texture-wide-angle-rough-colored-background_1258-28311.jpg?w=1380&t=st=1669790242~exp=1669790842~hmac=32d9bface63550e6dc0b3c38e82c0e1091ce9b95f5c59298da9bd4686d11280d);
+          margin: 200px 300px;
+          text-align: center;
+        }
+	</style>
+</head>
+
+<body>
+	<section>
+		<h1>Top K Health Query Intent Retrieval
+        </h1>
+        <hr>
+       <br>
+       <h2>Results</h2>
+	   <h1>{{data.Drug}}</h1>
+		<!-- TABLE CONSTRUCTION-->
+		<table id='table'>
+			<!-- HEADING FORMATION -->
+			<tr>
+				<th>Drug</th>
+				<th>Product</th>
+				<th>Query</th>
+                <th>Answer</th>
+                <th>Query Type</th>
+				
+			</tr>
+			<!-- TABLE BODY -->
+			
+			{% for row in data %}		
+			<tr>
+				<!-- TABLE DATA -->
+				<td>{{row.Drug}}</td>
+				<td>{{row.Product}}</td>
+				<td>{{row.Query}}</td>
+				<td>{{row.Answer}}</td>
+				<td>{{row.Query_Type}}</td>
+			</tr>
+			{% endfor %}
+		</table>
+
+	</section>
+</body>
+
+</html>

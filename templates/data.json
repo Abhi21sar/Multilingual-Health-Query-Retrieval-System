@@ -1,0 +1,16 @@
+[
+    {
+        "Drug":"1",
+        "Product":"abc",
+        "Query":"xyz",
+        "Answer":"abc",
+        "Query_Type":"xyz"
+    },
+    {
+        "Drug":"2",
+        "Product":"ghj",
+        "Query":"jkl",
+        "Answer":"yui",
+        "Query_Type":"wer"
+    }
+]
