@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search Results | MediQuery Pro</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="container">
+        <div style="text-align: left; width: 100%; margin-bottom: 2rem;">
+            <a href="/" style="text-decoration: none; color: var(--primary); font-weight: 600;">← Back to Search</a>
+        </div>
+
+        <form action="/search" method="post" class="search-box" style="margin-bottom: 3rem;">
+            <input type="text" name="query" value="{{ query }}" required>
+            <button type="submit">Re-Search</button>
+        </form>
+
+        <div class="results-container">
+            <p style="color: var(--text-muted);">Top relevant findings for: <strong>"{{ query }}"</strong></p>
+
+            {% for result in results %}
+            <div class="result-card">
+                <span class="confidence-badge">{{ result.confidence }}% Match</span>
+                <div class="result-query">{{ result.Query }}</div>
+                <div class="result-answer">
+                    <!-- Assuming your Excel has columns like 'Response' or similar, adjust keys as needed -->
+                    {% if result.Answer %}
+                    {{ result.Answer }}
+                    {% else %}
+                    Retrieved medical context from database.
+                    {% endif %}
+                </div>
+            </div>
+            {% else %}
+            <div style="text-align: center; padding: 4rem; color: var(--text-muted);">
+                No highly relevant results found. Try a different query.
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</body>
+
+</html>

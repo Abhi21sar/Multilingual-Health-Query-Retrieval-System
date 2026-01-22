@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MediQuery Pro | Intelligent Health Retrieval</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <h1>MediQuery Pro</h1>
+        <p class="subtitle">World-class multilingual semantic search for health inquiries.</p>
+        
+        <form action="/search" method="post" class="search-box">
+            <input type="text" name="query" placeholder="Ask a health question (e.g., Symptoms of flu, Heart disease prevention...)" required autofocus>
+            <button type="submit">Search Engine</button>
+        </form>
+
+        <div class="features" style="margin-top: 4rem; display: flex; justify-content: center; gap: 2rem; color: var(--text-muted); font-size: 0.875rem;">
+            <span>⚡ Sub-millisecond latentcy</span>
+            <span>🌍 100+ Languages supported</span>
+            <span>🛡️ Privacy-first retrieval</span>
+        </div>
+    </div>
+</body>
+</html>
