@@ -11,7 +11,7 @@ class Settings(BaseSettings):
     FALLBACK_MODEL: str = "paraphrase-multilingual-MiniLM-L12-v2"
     
     # Data Paths
-    DATA_FILE: str = "dataAll.xlsx"
+    DATA_FILE: str = "dataAll.parquet"
     EMBEDDINGS_FILE: str = "corpus_embedding.npy"
     
     # Search Configuration

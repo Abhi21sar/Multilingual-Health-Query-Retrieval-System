@@ -26,7 +26,7 @@ class DataManager:
             if not os.path.exists(settings.DATA_FILE):
                 raise FileNotFoundError(f"Data file not found: {settings.DATA_FILE}")
                 
-            self.raw_data = pd.read_excel(settings.DATA_FILE)
+            self.raw_data = pd.read_parquet(settings.DATA_FILE)
             
             logger.info(f"Loading embeddings from {settings.EMBEDDINGS_FILE}...")
             if not os.path.exists(settings.EMBEDDINGS_FILE):
