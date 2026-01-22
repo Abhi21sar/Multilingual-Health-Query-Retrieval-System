@@ -1,27 +1,21 @@
 
-from flask import Flask, render_template, url_for, request,redirect
 import json
 
-import numpy as np
-import pandas as pd
-import scipy
-from sentence_transformers import SentenceTransformer
+from flask import Flask, redirect, render_template, request, url_for
 
-from test import getDocs, Initiate
-
-
+from test import Initiate, getDocs
 
 app = Flask(__name__)
 corpus_embeddings, K, raw_data, embedder =  Initiate()
 
-file=open("templates/data.json","r")
+file=open("templates/data.json")
 data=file.read()
 data=json.loads(data)
 
 @app.route('/success/<query>')
 def success(query):
 
-    print("QUERY is : ",query)  
+    print("QUERY is : ",query)
 
     query_embedding = embedder.encode(query)
     df = getDocs(corpus_embeddings, query_embedding,raw_data,K)
@@ -42,7 +36,7 @@ def UserQuery():
       userQ = request.args.get('qry')
       print(userQ)
       return redirect(url_for('success',query = userQ))
-    
+
 
 @app.route('/', methods=['GET', 'POST'])
 def index():

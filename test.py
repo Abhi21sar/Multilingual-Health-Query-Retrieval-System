@@ -3,6 +3,7 @@ import pandas as pd
 import scipy
 from sentence_transformers import SentenceTransformer
 
+
 def Initiate():
 
     corpus_embeddings = np.load("corpus_embedding.npy")
@@ -20,7 +21,7 @@ def Initiate():
     return corpus_embeddings, K, raw_data, embedder
 
 def getDocs(corpus_embeddings, query_embedding, raw_data, K = 10):
-    
+
     distances = scipy.spatial.distance.cdist([query_embedding], corpus_embeddings, "cosine")[0]
     results = zip(range(len(distances)), distances)
     results = sorted(results, key=lambda x: x[1])

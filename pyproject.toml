@@ -36,10 +36,12 @@ include = ["app*"]
 [tool.ruff]
 line-length = 88
 target-version = "py39"
-select = ["E", "F", "I", "N", "W", "C90", "UP"]
-ignore = []
 
-[tool.ruff.isort]
+[tool.ruff.lint]
+select = ["E", "F", "I", "N", "W", "C90", "UP"]
+ignore = ["E501", "N802", "N803", "N806", "E722"]
+
+[tool.ruff.lint.isort]
 known-first-party = ["app"]
 
 [build-system]

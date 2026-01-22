@@ -1,14 +1,16 @@
-from fastapi import FastAPI, Request, Form, Depends, HTTPException
+from contextlib import asynccontextmanager
+
+import uvicorn
+from fastapi import FastAPI, Form, HTTPException, Request
 from fastapi.responses import HTMLResponse, JSONResponse
 from fastapi.staticfiles import StaticFiles
 from fastapi.templating import Jinja2Templates
-import uvicorn
-from contextlib import asynccontextmanager
 
 from app.core.config import settings
 from app.core.logging import logger
-from app.services.vector_engine import VectorEngine
 from app.services.data_service import DataManager
+from app.services.vector_engine import VectorEngine
+
 
 # Lifecycle Manager
 @asynccontextmanager
@@ -42,7 +44,7 @@ async def index(request: Request):
 
 @app.post("/search", response_class=HTMLResponse)
 async def handle_search_ui(
-    request: Request, 
+    request: Request,
     query: str = Form(...),
 ):
     try:
@@ -50,7 +52,7 @@ async def handle_search_ui(
         results = engine.search(query)
         return templates.TemplateResponse(
             request=request,
-            name="results.html", 
+            name="results.html",
             context={"query": query, "results": results}
         )
     except Exception as e:

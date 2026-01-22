@@ -1,16 +1,14 @@
-from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
+import json
+import time
+import warnings
 
+from helper import get_faq, get_feedback, get_patient_concerns, get_side_effects
+from lxml import html
+from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
+from tqdm import tqdm
 from webdriver_manager.chrome import ChromeDriverManager
 
-from lxml import html
-import time, json
-from tqdm import tqdm
-
-from helper import get_feedback, get_faq, get_patient_concerns, get_side_effects
-
-import warnings
 warnings.filterwarnings("ignore")
 
 options = webdriver.ChromeOptions()
@@ -67,7 +65,7 @@ for drug in drugs:
             link = prod.get_attribute("href")
 
             products_urls.append(link)
- 
+
 
         try:
             nxt_btn = driver.find_element("xpath","//span[@class='style__next___2Cubq']")
@@ -79,7 +77,7 @@ for drug in drugs:
 
         except:
             break
-    
+
     # print(len(products_urls))
     print(f"\n\nFound {prods_cnt} products for {drug}")
 

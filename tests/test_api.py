@@ -1,6 +1,8 @@
-from fastapi.testclient import TestClient
-from app.api.main import app
 from unittest.mock import MagicMock, patch
+
+from fastapi.testclient import TestClient
+
+from app.api.main import app
 
 client = TestClient(app)
 
@@ -22,7 +24,7 @@ def test_search_api(mock_engine_factory):
     mock_engine_factory.return_value = mock_engine
 
     response = client.get("/api/v1/search?query=flu")
-    
+
     assert response.status_code == 200
     data = response.json()
     assert data["query"] == "flu"

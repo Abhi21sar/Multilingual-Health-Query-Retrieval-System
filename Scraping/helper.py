@@ -1,5 +1,5 @@
 def get_feedback(tree):
-    
+
     # feedback = driver.find_element("xpath","//div[@id='user_feedback']//div[@class='DrugPane__content___3-yrB']/div[@class='style__container___H5Qpz']")
     # feedback_rows = feedback.find_elements("xpath",".//div[@class='row']")
 
@@ -36,15 +36,15 @@ def get_feedback(tree):
 
                 # responses_list.append((r.text,percent.text))
                 responses_list.append((r,percent))
-            
+
             # feedback_dict[q.text] = responses_list
             feedback_dict[q] = responses_list
-    
+
     return feedback_dict
 
 
 def get_faq(tree):
-    
+
     # faq = driver.find_element("xpath","//div[@id='faq']//div[@class='Faqs__tile___1B58W']")
     faq = tree.xpath("//div[@id='faq']//div[@class='Faqs__tile___1B58W']")
 
@@ -71,20 +71,20 @@ def get_faq(tree):
         faq_list.append((q,a))
 
     for f in faq_hidden:
-    
+
         # q = f.find_element("xpath","./h3").text[3:]
         q = f.xpath("./h3/text()")[0][3:]
 
         # a = f.find_element("xpath","./div").text
         a = f.xpath("./div/text()")[0]
-        
+
         # faq_dict[q] = a
         faq_list.append((q,a))
-    
+
     return faq_list
 
 def get_patient_concerns(tree):
-    
+
     # tree = html.fromstring(driver.page_source)
     patient_concerns = tree.xpath("//div[@id='patient_concerns']/div[@class='DrugPane__content___3-yrB']//div[@class='slick-track']/div[contains(@class,'slick-slide')]/div/div/div")
 
@@ -92,10 +92,10 @@ def get_patient_concerns(tree):
     patient_concerns_list = []
 
     for ele in patient_concerns:
-    
+
         q = ele.xpath("./div[contains(@class,'style__question___')]/text()")[0]
         a = ele.xpath("./div[contains(@class,'style__answer___')]/text()")[0]
-        
+
         # patient_concerns_dict[q] = a
         patient_concerns_list.append((q,a))
 
@@ -103,7 +103,7 @@ def get_patient_concerns(tree):
 
 
 def get_side_effects(tree):
-    
+
     side_effects = tree.xpath("//div[@id='side_effects']//div[@class='DrugOverview__content___22ZBX']/div")[0]
 
     # side_effects_dict = {}
